@@ -1,3 +1,10 @@
+
+To Download the required Modules
+
+### `npm install`
+
+You Require API Key for running the App , because this API KEY would no longer work from https://openweathermap.org/api
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
