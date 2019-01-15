@@ -1,3 +1,4 @@
+![Screenshot](https://github.com/THELAZYKING/Weather-App/blob/master/Preview.JPG?raw=true)
 
 To Download the required Modules
 
